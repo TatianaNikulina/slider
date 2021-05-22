@@ -1,0 +1,25 @@
+header {
+  text-align: center;
+  font-size: 40px;
+  background-color: rgb(152, 54, 243);
+  color: white;
+  margin-bottom: 10px;
+}
+
+body {
+  background-color: rgb(211, 174, 247);
+}
+
+#images {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+#images > img {
+  width: 24%;
+}
+
+#down {
+  text-align: center;
+}
